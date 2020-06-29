@@ -1,0 +1,19 @@
+html{user-select: none;}
+.app-container{
+  display: flex;
+  flex-direction: row;
+}
+.cart-container{
+  width: 25%;
+  padding:20px
+}
+.products-container{
+  width: 75%;
+}
+.cart-list{
+  width: 70%;padding: 70px;
+}
+.total-cart{
+  display: flex;
+  justify-content: space-between;
+}
